@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Abdul Haseeb
 
-<!--
-**Haseeb2172/Haseeb2172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate BS Artificial Intelligence student from Pakistan,
+focused on machine learning, data analysis, and practical AI development.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Strengthening machine-learning fundamentals
+- Building end-to-end data science projects
+- Practising Python, NumPy, Pandas, and Matplotlib
+- Preparing for international AI/ML internships
+
+## Technical Skills
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Git and GitHub
+
+## Currently Learning
+
+- Scikit-learn
+- Machine-learning model evaluation
+- Feature engineering
+- SQL
+- Deep learning fundamentals
+
+## Featured Projects
+
+Projects will be added here as they are completed.
+
