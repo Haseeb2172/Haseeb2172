@@ -2,30 +2,23 @@
 
 <div align="center">
 
-<img
-  src="./assets/profile-banner.png"
-  width="100%"
-  alt="Welcome to Haseeb's GitHub"
-/>
+<img src="./assets/profile-banner.png" width="100%" alt="Welcome to Haseeb's GitHub" />
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Haseeb2172)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0C4A6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulhaseeb.site)
-[![Repositories](https://img.shields.io/badge/REPOSITORIES-0369A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haseeb2172?tab=repositories)
-
-<!-- Add your real LinkedIn and email before uncommenting.
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
--->
+[![Projects](https://img.shields.io/badge/PROJECTS-0C4A6E?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Haseeb2172?tab=repositories)
+[![Follow](https://img.shields.io/badge/FOLLOW-0369A1?style=for-the-badge&logo=githubsponsors&logoColor=FFFFFF)](https://github.com/Haseeb2172?tab=followers)
 
 </div>
 
 <br/>
 
-<div align="center">
+<h3 align="center">◉ <i>Technologies</i></h3>
 
-## ◉ Technologies
+<hr/>
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/PYTHON-111827?style=flat-square&logo=python&logoColor=38BDF8)
 ![NumPy](https://img.shields.io/badge/NUMPY-111827?style=flat-square&logo=numpy&logoColor=4DABCF)
@@ -38,59 +31,59 @@
 
 <br/>
 
-<sub>Currently moving deeper into scikit learn, SQL, model evaluation, and feature engineering.</sub>
+<sub>Now learning scikit learn, SQL, model evaluation, and feature engineering.</sub>
 
 </div>
 
 <br/>
+
+<h3 align="center">◉ <i>Statistics</i></h3>
+
+<hr/>
 
 <div align="center">
 
-## ◉ Statistics
-
-<img
-  width="98%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Haseeb2172&bg_color=080C14&color=94A3B8&line=38BDF8&point=E0F2FE&area=true&area_color=0C4A6E&hide_border=true&custom_title=Abdul%20Haseeb's%20Contribution%20Graph"
-  alt="Abdul Haseeb contribution graph"
-/>
+<img src="./assets/contribution-graph.svg" width="100%" alt="Abdul Haseeb contribution graph" />
 
 </div>
 
 <br/>
 
-## ◉ About Me
+<h3 align="center">◉ <i>About Me</i></h3>
+
+<hr/>
 
 <table>
   <tr>
-    <td width="38%" align="center" valign="middle">
-      <pre><code>input
-  ↓
-data
-  ↓
-patterns
-  ↓
-model
-  ↓
-useful decision</code></pre>
+    <td width="36%" align="center" valign="middle">
+      <pre><code>$ whoami
+Abdul Haseeb
+$current_focus
+AI · ML · Data
+$approach
+learn → build
+measure → explain</code></pre>
     </td>
-    <td width="62%" valign="middle">
+    <td width="64%" valign="middle">
       <p>
         Hi, I am <b>Abdul Haseeb</b>, a BS Artificial Intelligence student
         from Pakistan.
       </p>
       <p>
-        My interest in AI began with one question: how can a machine turn raw
-        information into a useful decision?
+        I got interested in AI because I wanted to understand what happens
+        between a messy dataset and a useful decision. That curiosity took me
+        from writing my first Python programs to exploring data with NumPy,
+        Pandas, and Matplotlib.
       </p>
       <p>
-        That question led me to Python, data analysis, statistics, and machine
-        learning. I am now learning to build systems that can be tested,
-        explained, reproduced, and improved.
+        Right now, I am turning the fundamentals into visible work. Every
+        project here is meant to show what I understood, how I tested it, what
+        went wrong, and what I would improve next.
       </p>
       <p>
-        I am still early in the journey, so I am not interested in pretending
-        to know everything. I want the work on this profile to show steady,
-        honest progress.
+        I am still at the beginning, and I am comfortable saying that. This
+        profile is not a claim that I have arrived. It is a public record of me
+        doing the work.
       </p>
     </td>
   </tr>
@@ -98,7 +91,9 @@ useful decision</code></pre>
 
 <br/>
 
-## ◉ Hobbies and Goals
+<h3 align="center">◉ <i>Hobbies &amp; Goals</i></h3>
+
+<hr/>
 
 <table>
   <tr>
@@ -109,9 +104,10 @@ useful decision</code></pre>
         ideas into explanations that make sense.
       </p>
       <p>
-        My goal is to build a small portfolio of serious machine learning
-        projects, contribute meaningfully to open source, and become ready for
-        an international remote AI or machine learning internship in 2027.
+        By 2027, I want this profile to tell a simple story: I learned the
+        foundations, built serious machine learning projects, contributed to
+        open source, and became ready to help an international team as a remote
+        intern.
       </p>
       <blockquote>
         I am not trying to look finished. I am building the evidence.
@@ -119,7 +115,6 @@ useful decision</code></pre>
     </td>
     <td width="32%" align="center" valign="middle">
       <pre><code>2027
-
 LEARN
 BUILD
 CONTRIBUTE
@@ -131,16 +126,6 @@ GROW</code></pre>
 <br/>
 
 <div align="center">
-
-## ◉ Connect
-
-I am open to thoughtful feedback, meaningful collaboration, beginner friendly
-open source work, and international remote internship opportunities.
-
-[![GitHub](https://img.shields.io/badge/FOLLOW%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Haseeb2172)
-[![Portfolio](https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-0C4A6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulhaseeb.site)
-
-<br/><br/>
 
 <samp>Learn deeply · Build honestly · Improve continuously</samp>
 
