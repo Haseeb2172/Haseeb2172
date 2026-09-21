@@ -6,9 +6,9 @@
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/haseeb-abdull)
 [![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Haseeb2172)
 [![Projects](https://img.shields.io/badge/PROJECTS-0C4A6E?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Haseeb2172?tab=repositories)
-[![Follow](https://img.shields.io/badge/FOLLOW-0369A1?style=for-the-badge&logo=githubsponsors&logoColor=FFFFFF)](https://github.com/Haseeb2172?tab=followers)
 
 </div>
 
@@ -56,13 +56,7 @@
 <table>
   <tr>
     <td width="36%" align="center" valign="middle">
-      <pre><code>$ whoami
-Abdul Haseeb
-$current_focus
-AI · ML · Data
-$approach
-learn → build
-measure → explain</code></pre>
+      <pre><code>$ whoami<br/>Abdul Haseeb<br/><br/>$ current_focus<br/>AI · ML · Data<br/><br/>$ approach<br/>Learn → Build → Measure → Explain</code></pre>
     </td>
     <td width="64%" valign="middle">
       <p>
