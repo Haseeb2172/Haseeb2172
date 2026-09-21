@@ -1,147 +1,173 @@
-<!--
-  GitHub Profile README for github.com/Haseeb2172
-  Keep this file in the public repository: Haseeb2172/Haseeb2172
+<!-- Profile README for github.com/Haseeb2172 -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:0C4A6E,100:0284C7&height=190&section=header&text=ABDUL%20HASEEB&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=BUILDING%20MY%20WAY%20INTO%20MACHINE%20LEARNING&descAlignY=57&descSize=15&animation=fadeIn" alt="Abdul Haseeb header"/>
+
+<table>
+  <tr>
+    <td width="68%" valign="top">
+      <h2>Hi, I am Haseeb.</h2>
+      <p>I am an Artificial Intelligence student from Pakistan who became curious about one question: <b>how does a machine turn raw information into a useful decision?</b></p>
+      <p>I started with Python and data. Now I am learning to build machine learning systems that can be tested, explained, reproduced, and eventually trusted.</p>
+      <p>This profile is the public record of that journey.</p>
+      <p><code>learning deeply</code>&nbsp;&nbsp; <code>building in public</code>&nbsp;&nbsp; <code>open to 2027 internships</code></p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="https://github.com/Haseeb2172.png?size=230" width="190" alt="Abdul Haseeb"/>
+      <br/>
+      <sub>Pakistan&nbsp;&nbsp;•&nbsp;&nbsp;BS Artificial Intelligence</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+
+
+
+
+</div>
+
+<br/>
+
+~/now
+
+name: Abdul Haseeb
+role: AI student becoming a machine learning engineer
+current_mission: turn fundamentals into complete, reproducible projects
+learning:
+  • machine learning foundations
+  • data analysis and model evaluation
+  • SQL and feature engineering
+building:
+  • first serious data case study
+  • clean project workflows with Git and documentation
+next:
+  • scikit learn
+  • PyTorch
+  • APIs, testing, deployment, and MLOps
+target: international remote ML or AI internship in 2027
+
+~/why
+
+At first, making a notebook run felt like success.
+
+Then I started asking better questions.
+
+Why did the model choose that answer? Is the metric telling the whole truth? Did the model learn a pattern, or did I accidentally give it the answer? Could another developer clone the repository and reproduce the result?
+
+That shift changed what I want from this field.
+
+I do not want to collect projects that look impressive for thirty seconds. I want to understand the work well enough to defend every important decision inside it.
+
+Build something useful. Measure it honestly. Explain it clearly. Improve it relentlessly.
+
+~/toolbox
+
+<div align="center">
+
+Using now
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" alt="Current tools"/>
+
+<br/><br/>
+
+
+
+
+
+
+Moving into
+
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,postgres,fastapi,docker&theme=dark" alt="Tools I am learning next"/>
+
+</div>
+
+<br/>
+
+~/build
+
+I am keeping the portfolio small on purpose. Every project below must earn its place.
+
+<table>
+  <tr>
+    <td width="8%" align="center"><h3>01</h3></td>
+    <td width="67%"><b>Data, before models</b><br/>A real dataset turned into a clear case study through validation, exploration, visual reasoning, and honest conclusions.</td>
+    <td width="25%" align="center"><code>IN PROGRESS</code></td>
+  </tr>
+  <tr>
+    <td align="center"><h3>02</h3></td>
+    <td><b>From baseline to prediction</b><br/>A complete supervised learning system with careful preprocessing, model comparison, error analysis, and a usable interface.</td>
+    <td align="center"><code>PLANNED</code></td>
+  </tr>
+  <tr>
+    <td align="center"><h3>03</h3></td>
+    <td><b>Learning with PyTorch</b><br/>A deep learning project focused on experimentation, failure analysis, inference, and responsible documentation.</td>
+    <td align="center"><code>PLANNED</code></td>
+  </tr>
+  <tr>
+    <td align="center"><h3>04</h3></td>
+    <td><b>AI that shows its evidence</b><br/>A grounded AI application evaluated for retrieval quality, answer reliability, latency, cost, and failure cases.</td>
+    <td align="center"><code>PLANNED</code></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Repository links will replace the status labels when the work is ready to be inspected.</sub></p>
+
+~/standards
+
+01  Start with the problem, not the model.
+02  Establish a baseline before adding complexity.
+03  Treat data leakage as a bug, not a small mistake.
+04  Measure failures, not only the best result.
+05  Make the work reproducible for someone else.
+06  Write documentation that respects the reader's time.
+07  Never claim what the repository cannot prove.
+
+~/open_source
+
+I am preparing to make my first meaningful open source contribution.
+
+I am starting the same way I approach machine learning: first understand the system, then make a small change that is useful, tested, and easy to review.
+
+The goal is not to collect pull requests. The goal is to become someone maintainers can trust to do careful work.
+
+read → reproduce → discuss → contribute → respond to review → improve
+
+~/signal
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Haseeb2172&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=0EA5E9&text_color=C9D1D9&rank_icon=github" alt="Haseeb's GitHub statistics"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Haseeb2172&hide_border=true&background=0D1117&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Haseeb's contribution streak"/>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haseeb2172&bg_color=0D1117&color=94A3B8&line=0EA5E9&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Haseeb's contribution activity graph"/>
+
+</div>
+
+<p align="center"><sub>The numbers are live. The work behind them matters more.</sub></p>
+
+~/connect
+
+I am looking for thoughtful people, useful feedback, beginner friendly open source work, and international remote ML or AI internship opportunities for 2027.
+
+If you are working on something where curiosity, careful evaluation, and clear communication matter, I would be glad to connect.
+
+<div align="center">
+
+
+
+
+<!-- Add your real links, then remove this comment.
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Send%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
 -->
 
-<div align="center">
+<br/><br/>
 
-
-
-I am learning how machines learn, one honest project at a time.
-
-
-
-
-
-
+<samp>I am not trying to look finished. I am building the evidence.</samp>
 
 </div>
 
-Hi, I am Haseeb
-
-I am a BS Artificial Intelligence student from Pakistan.
-
-My interest in AI began with a simple question: how can a machine look at information, find a pattern, and make a useful decision?
-
-That question pulled me into Python, data, statistics, and machine learning. At first, getting a notebook to run felt like progress. Now I want to understand what is happening behind the output. Why did the model make that prediction? Is the result actually good? Did I accidentally leak information? Would someone else be able to run my work and reach the same conclusion?
-
-Those are the questions shaping the kind of engineer I want to become.
-
-I am still at the beginning, and I am comfortable saying that. This profile is where I will document the journey properly. Not with inflated claims or copied projects, but with real work that becomes better over time.
-
-My goal is simple. Learn deeply enough to build something useful, then explain it clearly enough that another person can trust it.
-
-What I am focused on
-
-Right now, I am strengthening my foundation in Python, NumPy, Pandas, Matplotlib, statistics, and data analysis. I am also moving into scikit learn, SQL, model evaluation, and feature engineering.
-
-The bigger goal is to move beyond isolated notebooks. I want to build complete projects where the data is checked, the decisions are explained, the model is measured honestly, and the final result can be used by someone other than me.
-
-<table>
-  <tr><td><b>Learning now</b></td><td>Python, data analysis, statistics, classical machine learning</td></tr>
-  <tr><td><b>Building toward</b></td><td>Tested code, APIs, deployment, PyTorch, and practical MLOps</td></tr>
-  <tr><td><b>Long term direction</b></td><td>Machine learning engineering and applied AI</td></tr>
-  <tr><td><b>Current goal</b></td><td>An international remote ML or AI internship in 2027</td></tr>
-</table>
-
-The work I want this profile to represent
-
-I do not want to fill GitHub with twenty projects that all came from tutorials. I would rather build a few projects that show how I think.
-
-The first will be a data analysis case study. I want to take a real and imperfect dataset, clean it carefully, explore it with purpose, and turn the findings into a story that makes sense.
-
-The second will be a complete machine learning project. It will begin with a simple baseline, compare models fairly, use the right evaluation metrics, study the mistakes, and finish with an interface that another person can actually try.
-
-After that, I plan to build a deep learning application with PyTorch and an evidence based AI application that can show where its answers came from.
-
-Each project should answer a few important questions.
-
-<table>
-  <tr><td><b>01</b></td><td>What real problem am I trying to solve?</td></tr>
-  <tr><td><b>02</b></td><td>Why did I choose this approach?</td></tr>
-  <tr><td><b>03</b></td><td>How do I know the result is useful?</td></tr>
-  <tr><td><b>04</b></td><td>Can someone else reproduce the work?</td></tr>
-  <tr><td><b>05</b></td><td>Where does the solution fail, and what would I improve next?</td></tr>
-</table>
-
-Tools I am using
-
-<div align="center">
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-What comes next
-
-These are the tools I am working toward as my projects become more complete.
-
-<div align="center">
-
-
-
-
-
-
-
-</div>
-
-My progress
-
-This section is intentionally unfinished because the work is still being done. Every completed box should eventually point to something real on this profile.
-
-<table>
-  <tr><td>⬜</td><td>Publish a complete data analysis case study</td></tr>
-  <tr><td>⬜</td><td>Implement foundational machine learning algorithms with tests</td></tr>
-  <tr><td>⬜</td><td>Build and evaluate an end to end classification project</td></tr>
-  <tr><td>⬜</td><td>Add automated testing and continuous integration to a flagship repository</td></tr>
-  <tr><td>⬜</td><td>Deploy an interactive machine learning application</td></tr>
-  <tr><td>⬜</td><td>Complete a deep learning project with PyTorch</td></tr>
-  <tr><td>⬜</td><td>Make my first meaningful open source contribution</td></tr>
-  <tr><td>⬜</td><td>Become ready for international remote ML and AI internships</td></tr>
-</table>
-
-A note on progress
-
-There is a lot I do not know yet. That does not discourage me. It gives me a direction.
-
-I am not trying to make my contribution graph look busy for the sake of it. A good day of progress might be writing a feature, fixing a bug, improving a test, rewriting a confusing explanation, or discovering that an experiment did not work.
-
-The point is not to look active. The point is to become better.
-
-<div align="center">
-
-
-
-</div>
-
-Let us connect
-
-I would be happy to connect with students, developers, researchers, mentors, and teams working in machine learning, applied AI, and data science.
-
-I am especially interested in beginner friendly open source work, thoughtful project collaboration, honest technical feedback, and international remote internship opportunities for 2027.
-
-If you are building something meaningful and think I could learn from it or contribute to it, feel free to reach out.
-
-<div align="center">
-
-
-
-<!-- Replace the placeholders below before uncommenting them.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Haseeb-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
--->
-
-I am not here to look finished. I am here to keep growing.
-
-
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:0C4A6E,100:0284C7&height=120&section=footer" alt="Footer"/>
