@@ -1,28 +1,23 @@
-<!-- GitHub Profile README for Haseeb2172 -->
+<!-- GitHub Profile README for github.com/Haseeb2172 -->
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Haseeb2172/Haseeb2172/main/assets/profile-banner.png"
+  src="./assets/profile-banner.png"
   width="100%"
-  alt="Abdul Haseeb GitHub profile banner"
+  alt="Welcome to Haseeb's GitHub"
 />
 
 <br/>
 
-<h1>Welcome to Haseeb's GitHub</h1>
-
-<p>
-  <b>Artificial Intelligence Student · Machine Learning · Data Science</b>
-</p>
-
-<p>
-  Learning how intelligent systems are built, evaluated, and improved.
-</p>
-
 [![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Haseeb2172)
-[![Repositories](https://img.shields.io/badge/REPOSITORIES-082F49?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Haseeb2172?tab=repositories)
-[![Internship](https://img.shields.io/badge/OPEN%20TO%202027%20INTERNSHIPS-0369A1?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Haseeb2172)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0C4A6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulhaseeb.site)
+[![Repositories](https://img.shields.io/badge/REPOSITORIES-0369A1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haseeb2172?tab=repositories)
+
+<!-- Add your real LinkedIn and email before uncommenting.
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+-->
 
 </div>
 
@@ -31,47 +26,6 @@
 <div align="center">
 
 ## ◉ Technologies
-
-### Using Now
-
-<table>
-  <tr>
-    <td align="center" width="12.5%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" alt="Python"/>
-      <br/><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="12.5%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="46" alt="NumPy"/>
-      <br/><sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="12.5%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="46" alt="Pandas"/>
-      <br/><sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="12.5%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="46" alt="Matplotlib"/>
-      <br/><sub><b>Matplotlib</b></sub>
-    </td>
-    <td align="center" width="12.5%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="46" alt="Jupyter"/>
-      <br/><sub><b>Jupyter</b></sub>
-    </td>
-    <td align="center" width="12.5%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" alt="Git"/>
-      <br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="12.5%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="46" alt="GitHub"/>
-      <br/><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="12.5%">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="46" alt="VS Code"/>
-      <br/><sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ![Python](https://img.shields.io/badge/PYTHON-111827?style=flat-square&logo=python&logoColor=38BDF8)
 ![NumPy](https://img.shields.io/badge/NUMPY-111827?style=flat-square&logo=numpy&logoColor=4DABCF)
@@ -82,13 +36,9 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-111827?style=flat-square&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS%20CODE-111827?style=flat-square&logo=visualstudiocode&logoColor=38BDF8)
 
-### Learning Next
+<br/>
 
-![scikit learn](https://img.shields.io/badge/SCIKIT%20LEARN-082F49?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![SQL](https://img.shields.io/badge/SQL-082F49?style=flat-square&logo=postgresql&logoColor=38BDF8)
-![PyTorch](https://img.shields.io/badge/PYTORCH-082F49?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![FastAPI](https://img.shields.io/badge/FASTAPI-082F49?style=flat-square&logo=fastapi&logoColor=00C7B7)
-![Docker](https://img.shields.io/badge/DOCKER-082F49?style=flat-square&logo=docker&logoColor=2496ED)
+<sub>Currently moving deeper into scikit learn, SQL, model evaluation, and feature engineering.</sub>
 
 </div>
 
@@ -97,20 +47,6 @@
 <div align="center">
 
 ## ◉ Statistics
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Haseeb2172&show_icons=true&hide_border=true&bg_color=080C14&title_color=38BDF8&icon_color=0EA5E9&text_color=D8E6F3&rank_icon=github"
-  alt="Abdul Haseeb GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=Haseeb2172&hide_border=true&background=080C14&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC"
-  alt="Abdul Haseeb contribution streak"
-/>
-
-<br/>
 
 <img
   width="98%"
@@ -126,46 +62,35 @@
 
 <table>
   <tr>
-    <td width="24%" align="center" valign="middle">
-      <h1>AI</h1>
-      <p>
-        <code>DATA</code>
-      </p>
-      <p>
-        <code>MODELS</code>
-      </p>
-      <p>
-        <code>SYSTEMS</code>
-      </p>
-      <p>
-        <code>IMPACT</code>
-      </p>
+    <td width="38%" align="center" valign="middle">
+      <pre><code>input
+  ↓
+data
+  ↓
+patterns
+  ↓
+model
+  ↓
+useful decision</code></pre>
     </td>
-    <td width="76%" valign="middle">
-      <h3>Hi, I am Abdul Haseeb.</h3>
+    <td width="62%" valign="middle">
       <p>
-        I am a BS Artificial Intelligence student from Pakistan, building
-        toward a career in machine learning engineering and applied AI.
+        Hi, I am <b>Abdul Haseeb</b>, a BS Artificial Intelligence student
+        from Pakistan.
       </p>
       <p>
-        My interest in AI began with a simple question:
-        <b>how can a machine turn raw information into a useful decision?</b>
+        My interest in AI began with one question: how can a machine turn raw
+        information into a useful decision?
       </p>
       <p>
-        That question led me to Python, NumPy, Pandas, Matplotlib, statistics,
-        data analysis, and machine learning.
+        That question led me to Python, data analysis, statistics, and machine
+        learning. I am now learning to build systems that can be tested,
+        explained, reproduced, and improved.
       </p>
       <p>
-        At first, making a notebook run felt like progress. Now I want to
-        understand what is happening behind the result.
-      </p>
-      <p>
-        Why did the model make that prediction? Is the evaluation fair? Did I
-        accidentally leak information? Can another developer reproduce my
-        work?
-      </p>
-      <p>
-        Those are the questions shaping the engineer I want to become.
+        I am still early in the journey, so I am not interested in pretending
+        to know everything. I want the work on this profile to show steady,
+        honest progress.
       </p>
     </td>
   </tr>
@@ -173,181 +98,32 @@
 
 <br/>
 
-## ◉ Current Mission
-
-```yaml
-name: Abdul Haseeb
-location: Pakistan
-education: BS Artificial Intelligence
-
-current_focus:
-  • Python and data analysis
-  • Machine learning foundations
-  • Model evaluation
-  • Reproducible project development
-
-currently_building:
-  • A complete data analysis case study
-  • Stronger Git and GitHub workflows
-  • Clear technical documentation
-
-next_milestones:
-  • Learn scikit learn and SQL
-  • Begin PyTorch and deep learning
-  • Explore APIs, testing, Docker, and deployment
-
-career_target:
-  • International remote ML or AI internship in 2027
-```
-
-<br/>
-
-## ◉ Building
-
-I am keeping my portfolio small on purpose. Every project must demonstrate real thinking, not just working code.
+## ◉ Hobbies and Goals
 
 <table>
   <tr>
-    <td width="10%" align="center">
-      <h2>01</h2>
-    </td>
-    <td width="65%">
-      <b>Data Before Models</b>
-      <br/>
-      Turning a real dataset into a clear case study through validation,
-      exploration, visual reasoning, and honest conclusions.
-    </td>
-    <td width="25%" align="center">
-      <img
-        src="https://img.shields.io/badge/IN%20PROGRESS-0C4A6E?style=for-the-badge"
-        alt="In progress"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h2>02</h2>
-    </td>
-    <td>
-      <b>From Baseline to Prediction</b>
-      <br/>
-      A complete supervised learning system with careful preprocessing, fair
-      model comparison, error analysis, and a usable interface.
-    </td>
-    <td align="center">
-      <img
-        src="https://img.shields.io/badge/PLANNED-111827?style=for-the-badge"
-        alt="Planned"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h2>03</h2>
-    </td>
-    <td>
-      <b>Learning With PyTorch</b>
-      <br/>
-      A deep learning project focused on experimentation, failure analysis,
-      inference, and responsible documentation.
-    </td>
-    <td align="center">
-      <img
-        src="https://img.shields.io/badge/PLANNED-111827?style=for-the-badge"
-        alt="Planned"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h2>04</h2>
-    </td>
-    <td>
-      <b>AI That Shows Its Evidence</b>
-      <br/>
-      A grounded AI application evaluated for retrieval quality, answer
-      reliability, latency, cost, and failure cases.
-    </td>
-    <td align="center">
-      <img
-        src="https://img.shields.io/badge/PLANNED-111827?style=for-the-badge"
-        alt="Planned"
-      />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <sub>Project links will replace the status labels when the work is ready to be inspected.</sub>
-</p>
-
-<br/>
-
-## ◉ Principles
-
-```text
-01  Understand the problem before choosing the model.
-
-02  Establish a baseline before increasing complexity.
-
-03  Treat data leakage as a serious software defect.
-
-04  Measure failures, not only the best result.
-
-05  Make every serious project reproducible.
-
-06  Write documentation that respects the reader's time.
-
-07  Never claim what the repository cannot prove.
-```
-
-<br/>
-
-## ◉ Open Source
-
-I am preparing to make my first meaningful open-source contribution.
-
-I want to begin by understanding an active project, reproducing its development environment, and making a focused change that is useful, tested, and easy to review.
-
-The objective is not to collect pull requests. It is to become someone maintainers can trust to do careful work.
-
-```text
-read → reproduce → discuss → contribute → review → improve
-```
-
-<br/>
-
-## ◉ Goals
-
-<table>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <h1>2027</h1>
+    <td width="68%" valign="middle">
       <p>
-        <code>LEARN</code>
+        I enjoy exploring new technology, understanding how intelligent
+        systems work, solving problems through code, and turning complicated
+        ideas into explanations that make sense.
       </p>
       <p>
-        <code>BUILD</code>
-      </p>
-      <p>
-        <code>CONTRIBUTE</code>
-      </p>
-    </td>
-    <td width="75%" valign="middle">
-      <h3>The direction</h3>
-      <p>
-        Build a portfolio of serious machine learning projects, contribute
-        meaningfully to open source, and earn an international remote AI or
-        machine learning internship in 2027.
-      </p>
-      <p>
-        I am interested in thoughtful feedback, meaningful collaboration, and
-        teams that value curiosity, careful evaluation, and clear
-        communication.
+        My goal is to build a small portfolio of serious machine learning
+        projects, contribute meaningfully to open source, and become ready for
+        an international remote AI or machine learning internship in 2027.
       </p>
       <blockquote>
         I am not trying to look finished. I am building the evidence.
       </blockquote>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <pre><code>2027
+
+LEARN
+BUILD
+CONTRIBUTE
+GROW</code></pre>
     </td>
   </tr>
 </table>
@@ -358,15 +134,11 @@ read → reproduce → discuss → contribute → review → improve
 
 ## ◉ Connect
 
+I am open to thoughtful feedback, meaningful collaboration, beginner friendly
+open source work, and international remote internship opportunities.
+
 [![GitHub](https://img.shields.io/badge/FOLLOW%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Haseeb2172)
-[![Repositories](https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0C4A6E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haseeb2172?tab=repositories)
-
-<!-- Add your real information before uncommenting.
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
-
--->
+[![Portfolio](https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-0C4A6E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulhaseeb.site)
 
 <br/><br/>
 
